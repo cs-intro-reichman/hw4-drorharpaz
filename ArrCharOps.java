@@ -54,6 +54,7 @@ public class ArrCharOps {
         String str2 = ArrToStr(arr2);
         return str1.equals(str2);
     }
+    
     /** Convert an arry to a String */
     public static String ArrToStr(char[] arr) {
         String resulString = "";
